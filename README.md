@@ -107,7 +107,7 @@ python manage.py runserver
 
 ---
 
-# 🗄 Database Optimization
+# Database Optimization
 
 * Indexes on frequently queried fields
 * `select_related` + `prefetch_related` used where needed
@@ -116,7 +116,7 @@ python manage.py runserver
 
 ---
 
-# 🧪 Example API Usage
+# Example API Usage
 
 ### Blog views by country (monthly)
 
