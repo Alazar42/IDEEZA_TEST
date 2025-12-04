@@ -3,7 +3,6 @@
 Powerful analytics APIs for tracking blog views, top performers, and performance trends.
 
 ---
-
 ## Installation
 
 1. **Clone the repository**
@@ -24,19 +23,23 @@ python manage.py makemigrations
 python manage.py migrate
 ```
 
-4. **(Optional) Create superuser**
+4. **Populate test data**
+
+```bash
+python test_populate_data.py
+```
+
+5. **(Optional) Create superuser**
 
 ```bash
 python manage.py createsuperuser
 ```
 
-5. **Run development server**
+6. **Run development server**
 
 ```bash
 python manage.py runserver
 ```
-
----
 
 # API Endpoints
 
