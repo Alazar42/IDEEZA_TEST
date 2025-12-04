@@ -14,7 +14,7 @@ git clone https://github.com/Alazar42/IDEEZA_TEST.git
 2. **Install dependencies**
 
 ```bash
-pip install django djangorestframework
+pip install -r requirements.txt
 ```
 
 3. **Apply migrations**
