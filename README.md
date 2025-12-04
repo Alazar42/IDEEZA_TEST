@@ -8,7 +8,7 @@ Powerful analytics APIs for tracking blog views, top performers, and performance
 
 1. **Clone the repository**
 ```bash
-git clone <repo-url>
+git clone https://github.com/Alazar42/IDEEZA_TEST.git
 ````
 
 2. **Install dependencies**
